@@ -1,4 +1,4 @@
-test1
+test2
 # Ombulabs Blog
 
 Blog for the Ombulabs team using Jekyll as the blog-engine.
